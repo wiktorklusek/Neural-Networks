@@ -4,6 +4,8 @@ First steps into Neural Networks with Python
 ## Introduction to Neural Networks
 This project aims to provide a comprehensive introduction to the field of neural networks, including the history, mathematical foundations, and applications.
 
+![image](https://user-images.githubusercontent.com/63818570/216483163-1299ec95-3e18-4d2a-a0d3-d8faf82d7ae2.png)
+
 ## What are Neural Networks
 Neural networks are a type of machine learning algorithm that are designed to recognize patterns in data. They are based on the structure of the human brain and can be used for a wide range of applications, including image and speech recognition, natural language processing, and game playing.
 
